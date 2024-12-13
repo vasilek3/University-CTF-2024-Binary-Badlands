@@ -18,4 +18,6 @@ def max_signals_amount(signals, weights):
 
 print(max_signals_amount(signals, weights))
 
-#voloshka_3 / vasilek_3 CTF2024 University Badlands
+# author: voloshka_3 / vasilek_3 
+# name: Weighted Starfield
+# level: medium
