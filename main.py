@@ -18,6 +18,6 @@ def max_signals_amount(signals, weights):
 
 print(max_signals_amount(signals, weights))
 
-# author: voloshka_3 / vasilek_3 
+# author: voloshka_3 / vasilek3 
 # name: Weighted Starfield
 # level: medium
