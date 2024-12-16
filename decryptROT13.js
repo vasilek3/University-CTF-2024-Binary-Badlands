@@ -5,3 +5,5 @@ return input.replace(/[A-Za-z]/g, function(char){
 }
 
 console.log(decryptROT13("Znoyrf"))
+
+//Author: voloshka_3 / vasilek3
